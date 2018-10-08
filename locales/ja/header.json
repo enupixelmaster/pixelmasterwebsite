@@ -1,0 +1,17 @@
+{
+  "title": "ENU PIXEL MASTER",
+  "menu": {
+    "leaderboard": "リーダーボード",
+    "faq": "FAQ"
+  },
+  "faq": {
+    "title": "ENU PIXEL MASTERのよくあるご質問（FAQ）",
+    "intro": "ENU PIXEL MASTERはブロックチェーンに基づく世界初のコラボレーションアートワークです。<1>ENU</1>トークンで購入してピクセルを確認する。これは<3>ENU アカウント</3>と<5>Scatter</5>が必要です。",
+    "questions": {
+    },
+    "answers": {}
+  },
+  "drawer": "<0>ENU PIXEL MASTER</0> はブロックチェインで世界初の共同制作作品です。 ピクセルをペイントしてトークンを獲得しましょう！ <2>Learn more →</2>",
+  "connectWithScatter": "Scatterと接続します",
+  "depositTip": "{{deposit}}未払いの預金があります。 "
+}
